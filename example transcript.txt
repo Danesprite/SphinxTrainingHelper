@@ -1,0 +1,18 @@
+# This file is an example transcript file to be used with CMU Sphinx training and
+# adaption programs.
+#
+# The .fileids and .transcription files for transcript lines in this file can be
+# generated in the current working directory using the following:
+# python make_transcript_files.py "example transcript.txt"
+
+each one of these lines can be recorded one after the other and then used
+to adapt an acoustic model
+
+any empty or commented lines won't be included in the output files
+
+speech should be recorded into wave files with the correct sampling rate and channels
+
+# Now for some commands...
+
+alpha bravo charlie spa delta echo foxtrot space  # this is an in-line comment
+digits one two three four
